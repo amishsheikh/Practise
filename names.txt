@@ -1,0 +1,12 @@
+
+amish sheikh
+$ git push origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 220 bytes | 220.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/amishsheikh/Practise/pull/new/master
+remote:
+To https://github.com/amishsheikh/Practi
